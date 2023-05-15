@@ -1,0 +1,1 @@
+# scrapy_currency_rates
